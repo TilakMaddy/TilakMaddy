@@ -6,6 +6,12 @@ Smart Contract Auditor 🦅 | Programmer 👨‍💻 | Rustacean 🦀
 
 I have a lot of empathy for developers which is the driving force for my open-source contributions. Web3 stands for individual liberty and accountability which aligns with my values and principles. One of the best things to do in the current era is to secure smart contract protocols so that people feel safe investing. And that's what I have decided to do. Aside from that, I work a full-time job as a research professional in Semantics and Data Engineering.
 
+**HUGE UPDATE:**
+
+Now I work full time on Web3 security tooling at [@Cyfrin](https://github.com/Cyfrin) 😊
+
+
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tilak.madichetti@gmail.com](mailto:tilak.madichetti@gmail.com)
 * 🚀  I'm currently working on [documenting my learning journey. (Subscribe)](http://tilakmaddy.hashnode.dev)
