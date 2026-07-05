@@ -3,7 +3,7 @@ Hi 👋 My name is Tilak
 
 ### Professional contribution
 
-- [Cygent](https://app.cygent.dev/)
+- [Cygent](https://cygent.dev/)
 - [Aderyn](https://github.com/Cyfrin/aderyn) 
 - [Updraft](https://updraft.cyfrin.io/)
 - [Cyfrin Profiles](https://profiles.cyfrin.io/login)
