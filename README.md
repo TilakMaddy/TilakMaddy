@@ -38,4 +38,4 @@ src="https://img.shields.io/twitter/follow/tilakmadichetti?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tilakmaddy"><img src="https://github-readme-stats.vercel.app/api?username=tilakmaddy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="tilakmaddy's GitHub stats" /></a>
+<a href="http://www.github.com/tilakmaddy"><img src="https://github-stats-extended.vercel.app/api?username=tilakmaddy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="tilakmaddy's GitHub stats" /></a>
