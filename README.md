@@ -18,7 +18,7 @@ Hi 👋 My name is Tilak
 
 - Built a personal homelab on bare metal to self host apps, DNS servers, databases, SSO identity providers, certificate signers, and much more. I also integrated a monitoring and observability stack.
 
-- Coolify(PaaS), PiHole, Tailscale, Traefik, Grafana, Loki, Alloy, Tempo, Prometheus, NodeExporter, cAdvisor, Uptime Kuma, Gotify.
+- Coolify(PaaS), Cloudflared, PiHole, Tailscale, Traefik, Grafana, Loki, Alloy, Tempo, Prometheus, NodeExporter, cAdvisor, Uptime Kuma, Gotify, Authentik, Keycloak.
 
 ### Currently exploring
 
