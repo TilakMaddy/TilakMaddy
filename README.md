@@ -7,7 +7,7 @@ I am an engineer :)
 
 - [Cygent](https://cygent.dev/)
 - [Aderyn](https://github.com/Cyfrin/aderyn) 
-- [Updraft](https://updraft.cyfrin.io/)
+- [Updraft](https://updraft.cyfrin.io/courses)
 - [Cyfrin Profiles](https://profiles.cyfrin.io/login)
 
 ### Leisure
