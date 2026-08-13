@@ -31,6 +31,9 @@ I am an engineer :)
 - Writing Helm and Kustomize charts.
 - Elixir langauge and Beam VM
 
+### Resume
+
+[Tilak Madichetti 2026 Resume](https://www.dropbox.com/scl/fi/8yrrvdzhdfjm5r43lrnva/Tilak_Madichetti_Resume_2026.pdf?rlkey=2ib42mjxysfquwpje7nqs4yje&st=7mi5tb7x&e=1&dl=1)
 
 ### Github Stats
 
