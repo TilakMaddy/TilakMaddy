@@ -16,6 +16,10 @@ I am an engineer :)
 - [Codehawks bug reports](https://codehawks.cyfrin.io/contests)
 - [Neovim Config](https://github.com/TilakMaddy/nvim-config)
 
+### Resume
+
+[Tilak Madichetti 2026 Resume](https://www.dropbox.com/scl/fi/8yrrvdzhdfjm5r43lrnva/Tilak_Madichetti_Resume_2026.pdf?rlkey=2ib42mjxysfquwpje7nqs4yje&st=7mi5tb7x&e=1&dl=1)
+
 ### Self Hosting
 
 - Built a personal homelab on bare metal to self host apps, DNS servers, databases, SSO identity providers, certificate signers, and much more. I also integrated a monitoring and observability stack.
@@ -31,9 +35,6 @@ I am an engineer :)
 - Writing Helm and Kustomize charts.
 - Elixir langauge and Beam VM
 
-### Resume
-
-[Tilak Madichetti 2026 Resume](https://www.dropbox.com/scl/fi/8yrrvdzhdfjm5r43lrnva/Tilak_Madichetti_Resume_2026.pdf?rlkey=2ib42mjxysfquwpje7nqs4yje&st=7mi5tb7x&e=1&dl=1)
 
 ### Github Stats
 
