@@ -3,7 +3,7 @@ Hi 👋 My name is Tilak
 
 I am an engineer :) 
 
-[Resume](https://bit.ly/4qlp858).
+[Resume](https://bit.ly/4zj5OJT)
 
 ### Professional contribution
 
