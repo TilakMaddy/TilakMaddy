@@ -3,6 +3,8 @@ Hi 👋 My name is Tilak
 
 I am an engineer :) 
 
+[My Resume](https://bit.ly/tilaks-resume)
+
 ### Professional contribution
 
 - [Cygent](https://cygent.dev/)
@@ -16,9 +18,6 @@ I am an engineer :)
 - [Codehawks bug reports](https://codehawks.cyfrin.io/contests)
 - [Neovim Config](https://github.com/TilakMaddy/nvim-config)
 
-### Resume
-
-[Tilak Madichetti 2026 Resume](https://www.dropbox.com/scl/fi/8yrrvdzhdfjm5r43lrnva/Tilak_Madichetti_Resume_2026.pdf?rlkey=2ib42mjxysfquwpje7nqs4yje&st=7mi5tb7x&e=1&dl=1)
 
 ### Self Hosting
 
