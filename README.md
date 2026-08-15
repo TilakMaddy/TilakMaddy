@@ -3,8 +3,6 @@ Hi 👋 My name is Tilak
 
 I am an engineer :) 
 
-[My Resume](https://bit.ly/4bS61JV)
-
 ### Professional contribution
 
 - [Cygent](https://cygent.dev/)
