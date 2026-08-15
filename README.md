@@ -3,7 +3,7 @@ Hi 👋 My name is Tilak
 
 I am an engineer :) 
 
-[My Resume](https://bit.ly/4x3Ea23)
+[My Resume](https://www.dropbox.com/scl/fi/s66hizj4i0vdtfen0n68v/Tilak_Madichetti_Resume.pdf?rlkey=sera4wxqbrc1pg5g9rnw1yy82&st=h9nnb6sx&dl=0)
 
 ### Professional contribution
 
