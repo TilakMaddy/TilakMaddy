@@ -8,7 +8,7 @@ I am an engineer :)
 ### Professional contribution
 
 - [Cygent](https://cygent.dev/)
-- [Aderyn](https://github.com/Cyfrin/aderyn) 
+- [Aderyn](https://github.com/Cyfrin/aderyn) - Open source developer tool
 - [Updraft](https://updraft.cyfrin.io/courses)
 - [Cyfrin Profiles](https://profiles.cyfrin.io/login)
 
