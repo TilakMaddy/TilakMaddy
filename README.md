@@ -34,6 +34,10 @@ I am an engineer :)
 - Writing Helm and Kustomize charts.
 - Elixir langauge and Beam VM
 
+### Consultancy
+
+Email me at `tilak.madichetti@gmail.com`
+
 
 ### Github Stats
 
