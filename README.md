@@ -18,7 +18,6 @@ I am an engineer :)
 - [Codehawks bug reports](https://codehawks.cyfrin.io/contests)
 - [Neovim Config](https://github.com/TilakMaddy/nvim-config)
 
-
 ### Self Hosting
 
 - Built a personal homelab on bare metal to self host apps, DNS servers, databases, SSO identity providers, certificate signers, and much more. I also integrated a monitoring and observability stack.
@@ -33,6 +32,10 @@ I am an engineer :)
 - Envoy Service mesh
 - Writing Helm and Kustomize charts.
 - Elixir langauge and Beam VM
+
+### Platform Engineer's Toolkit
+
+Helping engineers build, manage and scale backends at [Oat Labs](https://github.com/oatlabs). 
 
 ### Consultancy
 
