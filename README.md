@@ -3,7 +3,14 @@ Hi 👋 My name is Tilak
 
 I am an engineer :) 
 
-[My Resume](https://www.dropbox.com/scl/fi/s66hizj4i0vdtfen0n68v/Tilak_Madichetti_Resume.pdf?rlkey=sera4wxqbrc1pg5g9rnw1yy82&st=h9nnb6sx&dl=0)
+> [!CAUTION]
+> Someone is impersonating me on X. My account is [@tilakmadichetti](https://x.com/tilakmadichetti) which I have verified with my national ID.
+> If you get a DM from me, check that it's from that exact handle.
+
+
+## Resume
+
+[Dropbox link to PDF](https://www.dropbox.com/scl/fi/s66hizj4i0vdtfen0n68v/Tilak_Madichetti_Resume.pdf?rlkey=sera4wxqbrc1pg5g9rnw1yy82&st=h9nnb6sx&dl=0)
 
 ### Professional contribution
 
