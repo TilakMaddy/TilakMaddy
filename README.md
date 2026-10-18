@@ -44,6 +44,13 @@ I am an engineer :)
 
 Helping engineers build, manage and scale backends at [Oat Labs](https://github.com/oatlabs). 
 
+I am [CKA certified](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f) by the Linux Foundation.
+
+<a href="https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f">
+  <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Badge" width="150"/>
+</a>
+
+
 ### Consultancy
 
 Email me at `tilak.madichetti@gmail.com`
