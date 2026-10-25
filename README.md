@@ -23,7 +23,7 @@ I am an engineer :)
 
 - [Solar](https://github.com/paradigmxyz/solar) 
 - [Codehawks bug reports](https://codehawks.cyfrin.io/contests)
-- [Neovim Config](https://github.com/TilakMaddy/nvim-config)
+- [The Coolest Neovim Config](https://github.com/TilakMaddy/nvim-config)
 
 ### Platform Engineer's Toolkit
 
