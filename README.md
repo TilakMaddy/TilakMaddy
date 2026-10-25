@@ -40,7 +40,7 @@ I am [CKA](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f) a
 
 Email me at `tilak.madichetti@gmail.com`
 
-### Self Hosting
+### Homelab
 
 - Built a personal homelab on bare metal to self host apps, DNS servers, databases, SSO identity providers, certificate signers, and much more. I also integrated a monitoring and observability stack.
 
@@ -63,6 +63,15 @@ Email me at `tilak.madichetti@gmail.com`
 - Policy / Governance: Kyverno
 - Deployment Automation: Keel
 - Networking / Security: AWS load balancers, IP allowlisting, TLS passthrough
+
+See how I used them in these projects.
+
+| Projects  | Description |
+| ------------- | ------------- |
+| [OpenInfra](https://github.com/TilakMaddy/hyperindex-openinfra) | A clone of enterprise features for a commercial product offering.|
+| [k8s Lima](https://github.com/oatlabs/terraform-aws-k8s-lima) | My Terraform module to bootstrap Talos Kubernetes (Multi-Cluster management Solution)|
+
+My X Post where I have documented detailed write-up showing my thought process in how I design Kubernetes solutions and make trade-offs based on the needs. Check it out [here](https://x.com/tilakmadichetti/status/2100194145164054533). 5k+ impressions
 
 ### Currently exploring
 
