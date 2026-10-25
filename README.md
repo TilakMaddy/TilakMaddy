@@ -46,6 +46,24 @@ Email me at `tilak.madichetti@gmail.com`
 
 - Coolify(PaaS), Cloudflared, PiHole, Tailscale, Traefik, Grafana, Loki, Alloy, Tempo, Prometheus, NodeExporter, cAdvisor, Uptime Kuma, Gotify, Authentik, Keycloak.
 
+### My DevOps Tech Stack
+
+- Cloud Infrastructure: AWS (EC2, VPC, IAM, S3)
+- Infrastructure as Code: Terraform
+- Kubernetes OS: Talos Linux
+- GitOps: Flux CD
+- Ingress / Gateway: Envoy Gateway (Gateway API)
+- TLS / Certificates: cert-manager
+- DNS Management: external-dns, Cloudflare
+- Database: PostgreSQL, CloudNativePG
+- Backup & WAL Archiving: barman-cloud, S3
+- Secret Management: 1Password, External Secrets Operator
+- Secret Refresh: Reloader
+- Observability: Prometheus, Grafana, Loki, Tempo, Alloy, kube-prometheus-stack
+- Policy / Governance: Kyverno
+- Deployment Automation: Keel
+- Networking / Security: AWS load balancers, IP allowlisting, TLS passthrough
+
 ### Currently exploring
 
 - Bootstrapping custom Talos Kubernetes Cluster on AWS.
