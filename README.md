@@ -12,7 +12,7 @@ I am an engineer :)
 
 [Dropbox link to PDF](https://www.dropbox.com/scl/fi/s66hizj4i0vdtfen0n68v/Tilak_Madichetti_Resume.pdf?rlkey=sera4wxqbrc1pg5g9rnw1yy82&st=h9nnb6sx&dl=0)
 
-### Professional contribution
+### Projects I worked on, at [Cyfrin](https://www.cyfrin.io/)
 
 - [Cygent](https://cygent.dev/)
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Open source compiler tool for static analysis of EVM smart contracts
