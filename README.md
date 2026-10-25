@@ -44,11 +44,12 @@ I am an engineer :)
 
 Helping engineers build, manage and scale backends at [Oat Labs](https://github.com/oatlabs). 
 
-I am [CKA certified](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f) by the Linux Foundation.
+I am [CKA](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f) and [CKAD](https://www.credly.com/badges/8d973f57-1246-4f49-8355-4f57786e1a07) certified by the Linux Foundation.
 
-<a href="https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f">
-  <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Badge" width="150"/>
-</a>
+<p>
+  <a href="https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Badge" width="150"/></a>
+  <a href="https://www.credly.com/badges/8d973f57-1246-4f49-8355-4f57786e1a07"><img src="https://images.credly.com/size/600x600/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD Badge" width="145"/></a>
+</p>
 
 
 ### Consultancy
