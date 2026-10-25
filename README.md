@@ -17,7 +17,7 @@ I am an engineer :)
 - [Cygent](https://cygent.dev/)
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Open source compiler tool for static analysis of EVM smart contracts
 - [Updraft](https://updraft.cyfrin.io/courses)
-- [Cyfrin Profiles](https://profiles.cyfrin.io/login)
+- [Profiles](https://profiles.cyfrin.io/login)
 
 ### Leisure contributions
 
