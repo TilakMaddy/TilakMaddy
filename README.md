@@ -14,8 +14,12 @@ I am an engineer :)
 
 ### Projects I worked on, at [Cyfrin](https://www.cyfrin.io/)
 
-- [Cygent](https://cygent.dev/)
-- [Aderyn](https://github.com/Cyfrin/aderyn) - Open source compiler tool for static analysis of EVM smart contracts
+I was hired to work on Aderyn full-time based on my open source contributions that I made since 2023 as a Cyfrin community member. Later, I got a chance to take up the role of a full stack developer and collaborate with design & product team, marketing, sales and others where we built some amazing sites for the blockchain ecosystem. 
+
+Checkout 👇 
+
+- [Cygent](https://cygent.dev/) - Multi-tenant AI agent runtime for businesses to scan & secure smart contract code.
+- [Aderyn](https://github.com/Cyfrin/aderyn) - Open source compiler tool for static analysis of EVM smart contracts, written in Rust (pre AI). 
 - [Updraft](https://updraft.cyfrin.io/courses)
 - [Profiles](https://profiles.cyfrin.io/login)
 
