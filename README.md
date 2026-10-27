@@ -21,13 +21,13 @@ Checkout 👇
 - [Aderyn](https://github.com/Cyfrin/aderyn) - (Ex-maintainer) Open source compiler static analysis tool for EVM smart contracts, written in Rust (pre AI).
 - [Cygent](https://cygent.dev/) - Multi-tenant AI agent runtime for businesses to scan & secure smart contract code.
 - [Updraft](https://updraft.cyfrin.io/courses) - Official education partner of ethereum.org
-- [Profiles](https://profiles.cyfrin.io/login) - One Cyfrin Profile for all products (Updraft, Codehawks, Solodit)
+- [Profiles](https://profiles.cyfrin.io/u/heavenz52) - One Cyfrin Profile for all products (Updraft, Codehawks, Solodit)
 
 ### Leisure contributions
 
-- [Solar](https://github.com/paradigmxyz/solar) 
-- [Codehawks bug reports](https://codehawks.cyfrin.io/contests)
-- [The Coolest Neovim Config](https://github.com/TilakMaddy/nvim-config)
+- [Solar](https://github.com/paradigmxyz/solar/pulls?q=is%3Apr++author%3ATilakMaddy) - Abstract Syntax Tree validation in the next generation Solidity compiler.
+- [Codehawks](https://codehawks.cyfrin.io/contests) - Reported security vulnerabilities in DeFi protocols
+- [The Coolest Neovim Config](https://github.com/TilakMaddy/nvim-config) - Open sourced my personal neovim config.
 
 ### Platform Engineer's Toolkit
 
