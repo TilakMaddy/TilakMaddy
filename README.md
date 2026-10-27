@@ -18,7 +18,7 @@ I was hired to work on Aderyn full-time based on open source contributions I mad
 
 Checkout 👇 
 
-- [Aderyn](https://github.com/Cyfrin/aderyn) - Open source compiler static analysis tool for EVM smart contracts, written in Rust (pre AI).
+- [Aderyn](https://github.com/Cyfrin/aderyn) - (Ex-maintainer) Open source compiler static analysis tool for EVM smart contracts, written in Rust (pre AI).
 - [Cygent](https://cygent.dev/) - Multi-tenant AI agent runtime for businesses to scan & secure smart contract code.
 - [Updraft](https://updraft.cyfrin.io/courses) - Official education partner of ethereum.org
 - [Profiles](https://profiles.cyfrin.io/login) - One Cyfrin Profile for all products (Updraft, Codehawks, Solodit)
