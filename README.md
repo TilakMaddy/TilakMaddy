@@ -25,8 +25,8 @@ Checkout 👇
 
 ### Leisure contributions
 
-- [Solar](https://github.com/paradigmxyz/solar/pulls?q=is%3Apr++author%3ATilakMaddy) - Abstract Syntax Tree validation in the next generation Solidity compiler.
-- [Codehawks](https://codehawks.cyfrin.io/contests) - Reported security vulnerabilities in DeFi protocols
+- [Solar](https://github.com/paradigmxyz/solar/pulls?q=is%3Apr++author%3ATilakMaddy) - Abstract Syntax Tree validation in the Solidity compiler. (Pre AI)
+- [Codehawks](https://codehawks.cyfrin.io/contests) - Reported security vulnerabilities in DeFi protocols (Pre AI)
 - [The Coolest Neovim Config](https://github.com/TilakMaddy/nvim-config) - Open sourced my personal neovim config.
 
 ### Platform Engineer's Toolkit
