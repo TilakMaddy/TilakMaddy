@@ -81,10 +81,8 @@ My X Post where I have documented detailed write-up showing my thought process i
 
 ### Currently exploring
 
-- Bootstrapping custom Talos Kubernetes Cluster on AWS.
-- Terraform to manage AWS infrastructure.
+- Preparing for CKS certification
 - Learning the inner workings on Cilium CNI plugin.
-- Envoy Service mesh
 - Writing Helm and Kustomize charts.
 - Elixir langauge and Beam VM
 
