@@ -67,6 +67,7 @@ Email me at `tilak.madichetti@gmail.com`
 - Policy / Governance: Kyverno
 - Deployment Automation: Keel
 - Networking / Security: AWS load balancers, IP allowlisting, TLS passthrough
+- Custom Operators: kube-builder (Golang)
 
 See how I used them in these projects.
 
