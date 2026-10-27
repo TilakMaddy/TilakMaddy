@@ -72,7 +72,7 @@ See how I used them in these projects.
 
 | Projects  | Description |
 | ------------- | ------------- |
-| [OpenInfra](https://github.com/TilakMaddy/hyperindex-openinfra) | A clone of enterprise features for a commercial product offering.|
+| [OpenInfra](https://github.com/TilakMaddy/hyperindex-openinfra) | A clone of enterprise features offered by a commercial product offering.|
 | [k8s Lima](https://github.com/oatlabs/terraform-aws-k8s-lima) | My Terraform module to bootstrap Talos Kubernetes (Multi-Cluster management Solution)|
 
 My X Post where I have documented detailed write-up showing my thought process in how I design Kubernetes solutions and make trade-offs based on the needs. Check it out [here](https://x.com/tilakmadichetti/status/2100194145164054533). 5k+ impressions
