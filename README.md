@@ -14,7 +14,7 @@ I am an engineer :)
 
 ### Projects I worked on, at [Cyfrin](https://www.cyfrin.io/)
 
-I was hired to work on Aderyn full-time based on my open source contributions that I made since 2023 as a Cyfrin community member. Later, I got a chance to take up the role of a full stack developer and collaborate with design & product team, marketing, sales and others where we built some amazing sites for the blockchain ecosystem. 
+I was hired to work on Aderyn full-time based on open source contributions I made back in 2023 as a Cyfrin community member. Later, I got a chance to take join the platform team and work end to end on full-stack features in collaboration with design & product team, marketing team and sales we built some amazing tools for the blockchain ecosystem.
 
 Checkout 👇 
 
