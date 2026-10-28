@@ -10,7 +10,7 @@ I am an engineer :)
 
 ## Resume
 
-[Dropbox link to PDF](https://www.dropbox.com/scl/fi/s66hizj4i0vdtfen0n68v/Tilak_Madichetti_Resume.pdf?rlkey=sera4wxqbrc1pg5g9rnw1yy82&st=h9nnb6sx&dl=0)
+[Dropbox link to PDF](https://www.dropbox.com/scl/fi/dn00920t7y67igydols60/Tilak_Madichetti_CV.pdf?rlkey=hwos6rzkf6ry3go8tdumendo6&st=y6bmzk8o&dl=0)
 
 ### Projects I worked on, at [Cyfrin](https://www.cyfrin.io/)
 
