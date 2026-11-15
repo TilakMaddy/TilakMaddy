@@ -34,11 +34,12 @@ Checkout 👇
 
 Helping engineers build, manage and scale backends at [Oat Labs](https://github.com/oatlabs). 
 
-I am [CKA](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f) and [CKAD](https://www.credly.com/badges/8d973f57-1246-4f49-8355-4f57786e1a07) certified by the Linux Foundation.
+I am [CKA](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f), [CKAD](https://www.credly.com/badges/8d973f57-1246-4f49-8355-4f57786e1a07) and [CKS](https://www.credly.com/badges/8defa029-ec82-438d-a820-c3af87f23e39) certified by the Linux Foundation.
 
 <p>
-  <a href="https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Badge" width="150"/></a>
+  <a href="https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA Badge" width="145"/></a>
   <a href="https://www.credly.com/badges/8d973f57-1246-4f49-8355-4f57786e1a07"><img src="https://images.credly.com/size/600x600/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD Badge" width="145"/></a>
+  <a href="https://www.credly.com/badges/8defa029-ec82-438d-a820-c3af87f23e39"><img src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="145" alt="CKS Badge"/></a>
 </p>
 
 ### Consultancy
