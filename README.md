@@ -4,7 +4,7 @@ Hi 👋 My name is Tilak
 I am an engineer :) 
 
 > [!CAUTION]
-> Someone is impersonating me on X. My account is [@tilakmadichetti](https://x.com/tilakmadichetti) which I have verified with my national ID.
+> Someone is impersonating me on X. My account is [@TilakMadichetti](https://x.com/tilakmadichetti) which I have verified with my national ID.
 > If you get a DM from me, check that it's from that exact handle.
 
 
