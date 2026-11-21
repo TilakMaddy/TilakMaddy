@@ -80,13 +80,6 @@ See how I used them in these projects.
 
 My X Post where I have documented detailed write-up showing my thought process in how I design Kubernetes solutions and make trade-offs based on the needs. Check it out [here](https://x.com/tilakmadichetti/status/2100194145164054533). 5k+ impressions
 
-### Currently exploring
-
-- Preparing for CKS certification
-- Learning the inner workings on Cilium CNI plugin.
-- Writing Helm and Kustomize charts.
-- Elixir langauge and Beam VM
-
 ### Github Stats
 
 <a href="http://www.github.com/tilakmaddy"><img src="https://github-stats-extended.vercel.app/api?username=tilakmaddy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="tilakmaddy's GitHub stats" /></a>
