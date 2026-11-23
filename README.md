@@ -45,7 +45,7 @@ I am [CKA](https://www.credly.com/badges/ec1f22c4-1a8f-477c-9bba-16bdfdfaab9f), 
 My other (lower level) CNCF badges: [KCSA](https://www.credly.com/badges/08646cf2-62cd-412a-abfa-ce1e4e181013).
 
 <p>
-  <a href="https://www.credly.com/badges/08646cf2-62cd-412a-abfa-ce1e4e181013"><img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="CKA Badge" width="145"/></a>
+  <a href="https://www.credly.com/badges/08646cf2-62cd-412a-abfa-ce1e4e181013"><img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="CKA Badge" width="105"/></a>
 </p>
 
 
